@@ -1,0 +1,13 @@
+htop
+wget
+curl
+vim
+zsh
+steam
+code
+nodejs
+gcc
+g++
+thunderbird
+sqlitebrowser
+git

@@ -1,0 +1,3 @@
+spotify
+app/com.discordapp.Discord/x86_64/stable
+librewolf
